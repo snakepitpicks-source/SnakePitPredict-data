@@ -8,6 +8,6 @@ Exports exclude API keys, authorization, private dashboard responses, local feed
 
 The initial snapshot covers 2026 Week 5: 14 games and 616 player-market assessments. Calls are conditional scenarios, not priced bets or calibrated probabilities. Source gaps remain visible in the evidence and dashboard.
 
-Code release: v1.0.3. Full design, operations and storage limitations live in the code repository's docs/DATA_REPOSITORY.md and docs/V1_REBUILD.md.
+Code release: v1.1.0. Forecasts, everyday milestones and moderate positive/negative stretch calls are included. Full design, operations and storage limitations live in the code repository's docs/DATA_REPOSITORY.md and docs/V1_REBUILD.md.
 
 Git archives persist; the five-cycle active-player cache policy applies to the local working store, not immutable Git history. Future snapshot storage should prioritize deltas and deduplicated history.
