@@ -6,6 +6,12 @@
   "note": "Hashes describe sanitized exports, not original provider payloads.",
   "files": [
     {
+      "file": "evidence/dfs_sources.json.gz",
+      "sha256": "e522d0ff857be1484162b306bd3c0a5e305e90a7deb98c459b3ce818fec73f00",
+      "uncompressed_sha256": "1838d13a97ab1bda3923ec917696814cc847e9569b9c84d7110313894711ebb5",
+      "bytes": 4322
+    },
+    {
       "file": "evidence/game_environment.json.gz",
       "sha256": "bc9b858c024f7170b87d66d2161468f58f5128fd0d11855ecee6173ed8160f0b",
       "uncompressed_sha256": "39e2e50e73672b83d2952de089ee1718d03d3a48af959bb65843ce04573d858a",
@@ -1147,33 +1153,33 @@
     },
     {
       "file": "results/analysis.json.gz",
-      "sha256": "cdc4656ac8d7ef579e45e9fd96fb95c3dcb11cb015a8c7c21c57b4246f0a4750",
-      "uncompressed_sha256": "4edba3dabcb4cd0ee40aac2f7a866121430911f76b17ff089ce7ad845c6c42b4",
-      "bytes": 340354
+      "sha256": "273c84b59adb695ba0fb8ab796df8dbc963905c902f1080ac42442a218204f9f",
+      "uncompressed_sha256": "eba7e133a13749ca6859d910d96a54f3223f87dce9ef499880773fc504bf4442",
+      "bytes": 340399
     },
     {
       "file": "results/sesha_insights.json.gz",
-      "sha256": "b9fdd47e4d4e74df36e8dd490b342992c4241e8afab65cf31f0409b745e89986",
-      "uncompressed_sha256": "47f13fb863e5a4f24adf3b47191b1810c33491d4c9f706cee48326e20e6dd92f",
-      "bytes": 160958
+      "sha256": "7ed14bb83b54899c75a49ff4dd39a9bed4819f4e5a22469567d6b7ea354a4494",
+      "uncompressed_sha256": "62b3bed335b0b5cf37934f5416c6b7d47dac7f66eaff6c845c04ceab4ba96dff",
+      "bytes": 161003
     },
     {
       "file": "results/predictions.json.gz",
-      "sha256": "b26003eec250c1ad532560da8e72672f085545c8b115bf6d5ac9042766f5758e",
-      "uncompressed_sha256": "cab8fe29c14265067877cf076f0c4ab4d1be3883250219f35187ca2385d15fc6",
-      "bytes": 34608
+      "sha256": "00119b7e8c91c841d36b5b25123488909f4d464344536bc747d57b9c30c6179e",
+      "uncompressed_sha256": "2cd92ec3c1d83cada5d14d15b9724c9951cbbedcc2f63a478ba9bc574dd560c6",
+      "bytes": 34655
     },
     {
       "file": "results/coordination.json.gz",
-      "sha256": "1990c19947e56c5d3956929fec3518094974f247a41f8be5adcd16e77362849c",
-      "uncompressed_sha256": "9132992c41048b18b9e3924dd8ea065204c54197fe9a3ef892229f9e1a91e392",
-      "bytes": 783
+      "sha256": "fb6a3488cdea2eb37c796002dfd056c0384cf0526ad5070b48b721138f4cd152",
+      "uncompressed_sha256": "f2311e10a4be920507a09b02cb5fce5190f7670cfe4456e92d9aa73f6432deb5",
+      "bytes": 782
     },
     {
       "file": "results/results.json.gz",
-      "sha256": "971fffc5188346d49bb00ad519df7f2b9b103a79d9d6fc991176c91fa7061b77",
-      "uncompressed_sha256": "4ade28a560200a351f4413f082648cb7e5396580e8fa9031adc75b8484cd15b6",
-      "bytes": 661039
+      "sha256": "9656f47c0f1f127f4e9c2cbff4be61939fedf17987c944f32c370eeb0bdbaf01",
+      "uncompressed_sha256": "6ad2ef3a578590d01ee077c070f16a1533dc53c822a4aa2cebae55ad2b2d9ea1",
+      "bytes": 680647
     }
   ]
 }
