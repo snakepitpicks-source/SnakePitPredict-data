@@ -11,3 +11,5 @@ The initial snapshot covers 2026 Week 5. The current Saturday refresh contains 1
 Code release: v1.1.0. Forecasts, everyday milestones and moderate positive/negative stretch calls are included. Full design, operations and storage limitations live in the code repository's docs/DATA_REPOSITORY.md and docs/V1_REBUILD.md.
 
 Git archives persist; the five-cycle active-player cache policy applies to the local working store, not immutable Git history. Future snapshot storage should prioritize deltas and deduplicated history.
+
+The current checkpoint is the **Saturday Evening Enrichment Update**. The verified Ditka announcement and coach tribute are included as Chicago story context. Numerical forecasts and confidence remain unchanged by that event. Subsequent substantive changes should revise affected calls while preserving this working baseline.
