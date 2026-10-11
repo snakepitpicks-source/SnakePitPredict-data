@@ -1,0 +1,24 @@
+{
+  "type": "Supplemental usage research; not a new full-slate prediction run",
+  "reports": 16,
+  "rows": 144,
+  "source_windows": [
+    "2026 NFL Player Statistics - Weeks 1 to 4",
+    "Quarterbacks - Weeks 1 to 4",
+    "Running Backs - Weeks 1 to 4",
+    "Tight Ends - Weeks 1 to 4",
+    "Weeks 1 to 17 (2026)",
+    "Wide Receivers - Weeks 1 to 4"
+  ],
+  "routes_available": false,
+  "files": [
+    {
+      "file": "usage_reports.json.gz",
+      "sha256": "bfce61f50c7690d4fbb8f13247d117ac56ee8f24916bfa10a226b149617d7440"
+    },
+    {
+      "file": "sources.json.gz",
+      "sha256": "b938394f2195e1f3d179ab5ce1c0492b26ffe2f841e205df466942e755e08ca0"
+    }
+  ]
+}
