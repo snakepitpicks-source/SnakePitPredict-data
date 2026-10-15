@@ -14,8 +14,8 @@
     },
     {
       "file": "model-evaluation.json.gz",
-      "sha256": "f50bd4c783e226679f3da24f46864b5b0ff442b877922e7c3f92455d5f217f65",
-      "uncompressed_sha256": "b390118273b85516369e4b834ce41c6e5185559c65aa8abeb6719b7c0b19e003"
+      "sha256": "b4e5e843604a4d2a07a431ae7ee74b777068fb592be3df14542d808f9b1cbdcf",
+      "uncompressed_sha256": "2dc1cb922fc6ea54508854f238dd5ba2bfe5e859489372434982ceb4f341e8b4"
     }
   ]
 }
