@@ -2,7 +2,7 @@
   "schema_version": 1,
   "snapshot": "20261015T_redzone_enriched",
   "sanitized": true,
-  "code_version": "1.2.1",
+  "code_version": "1.5.0",
   "note": "Hashes describe sanitized exports, not original provider payloads.",
   "files": [
     {
@@ -1327,21 +1327,21 @@
     },
     {
       "file": "results/analysis.json.gz",
-      "sha256": "8b424172b11173bef6fbc3a0f4960f2a3f671304c28c722203f829d16aeaa7c8",
-      "uncompressed_sha256": "5e08661d22bd31ac80d289fb3241ca8a533bb2899088913633ea97d2093c5ebe",
-      "bytes": 526920
+      "sha256": "f0e630f717324fa9bb1596ce61b210a8b18c52e2adced241d2397b96347e4568",
+      "uncompressed_sha256": "d3e2ded625a703e6acfb9470858b7df280b456ff9bca1b831ff8690225348f44",
+      "bytes": 540362
     },
     {
       "file": "results/sesha_insights.json.gz",
-      "sha256": "ea846377b5b84b1fe87c3ed0cb3effcf36b7a6424118e9286a6f44055ed5ffd9",
-      "uncompressed_sha256": "9cc545c54928641c84e29d15aa9460d0a7985aa06197973405cf10f306ebd95f",
-      "bytes": 277014
+      "sha256": "1eea029c61745afacd420b02c297b68a15bc2a9849d0add1f49101497841de77",
+      "uncompressed_sha256": "7f9288f437b0a4635337dcba17b174804da54f7c954c86b662b60b0e71f48b7a",
+      "bytes": 277015
     },
     {
       "file": "results/predictions.json.gz",
-      "sha256": "bcba004d27471156466bd59c9ee66ed3e248853b75693b7dc0f7e1af2c2384a3",
-      "uncompressed_sha256": "b0fece02d7300ba2770495ba25e9f18e18ff4539485ca1229de04261a06b7d16",
-      "bytes": 44706
+      "sha256": "be16243345a1b66ff8e629d36043c537de79e5ada31f6faebf5026920ec4d2b7",
+      "uncompressed_sha256": "aa84b5a4cb0921528683fc28a92ef5d9b35ee3b61de243081d43c56d97aad174",
+      "bytes": 44708
     },
     {
       "file": "results/coordination.json.gz",
@@ -1351,9 +1351,9 @@
     },
     {
       "file": "results/results.json.gz",
-      "sha256": "3229e338de27ff37e2b83a58547641491b601780f3b6b5637bd1778b3e10470b",
-      "uncompressed_sha256": "af61fd903f76762e0f14a2d343d98d662d5d66f0b48dd56b7229f35c45d569d7",
-      "bytes": 1036084
+      "sha256": "883ba4b323e3858aea4a73a5fbd93c1b2eadfddba6aa84555cdc8e9c68b8ce66",
+      "uncompressed_sha256": "41d741f13072fe9ded8c2999752eefe6052f276007c522435d77c5d7e35f138e",
+      "bytes": 1068638
     }
   ]
 }
