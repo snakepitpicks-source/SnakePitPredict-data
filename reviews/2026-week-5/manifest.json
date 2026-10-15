@@ -1,0 +1,21 @@
+{
+  "sanitized": true,
+  "basis": "Archived pregame review; no final frozen ledger or user decisions exported.",
+  "files": [
+    {
+      "file": "audit.json.gz",
+      "sha256": "978bf8f2211817082b48ea72bba372807b8164bae5fbbd972c9e32ccc575a70a",
+      "uncompressed_sha256": "ebe06ba309341b2a519de5e047b7267464f0960421effe204a076e9c81dc2648"
+    },
+    {
+      "file": "findings.json.gz",
+      "sha256": "76a4c23a887aaecf0b653934e7e22822c1c712ae4c7ffafdafe52490cdeddc62",
+      "uncompressed_sha256": "d4952be08ebead6b5cdb1946ca1803b610bbf663cab7cdc95d8feacd34a708f1"
+    },
+    {
+      "file": "model-evaluation.json.gz",
+      "sha256": "f50bd4c783e226679f3da24f46864b5b0ff442b877922e7c3f92455d5f217f65",
+      "uncompressed_sha256": "b390118273b85516369e4b834ce41c6e5185559c65aa8abeb6719b7c0b19e003"
+    }
+  ]
+}
