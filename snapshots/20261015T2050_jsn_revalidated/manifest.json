@@ -2,7 +2,7 @@
   "schema_version": 1,
   "snapshot": "20261015T2050_jsn_revalidated",
   "sanitized": true,
-  "code_version": "1.5.1",
+  "code_version": "1.6.0",
   "note": "Hashes describe sanitized exports, not original provider payloads.",
   "files": [
     {
@@ -1369,9 +1369,9 @@
     },
     {
       "file": "results/results.json.gz",
-      "sha256": "eff9939c2fc3cd07111d9f350af90b3a3ca8394d20873267e5a9f1b6335840ec",
-      "uncompressed_sha256": "aff7668f3c707d03bcc207186844d93bfb096519527f1e838153979f871959a8",
-      "bytes": 1069970
+      "sha256": "6407837931189a93cee3da2cbd566ae402299c662f21f7baaa9f8a3c1561e522",
+      "uncompressed_sha256": "4aaae1e33ba7ed226cd37076993a9e2700c3653b81149e05eae5f9b4db0fb186",
+      "bytes": 1299329
     }
   ]
 }
